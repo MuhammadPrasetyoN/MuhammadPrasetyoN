@@ -2,10 +2,10 @@
 
 Perkenalkan nama saya **Muhammad Prasetyo Nugroho**. 
 
-Saya seorang **Mahasiswa** di [Universitas Negeri Malang]([https://www.dicoding.com/](https://um.ac.id/).
+Saya seorang **Mahasiswa** di [Universitas Negeri Malang]([https://www.dicoding.com/](https://um.ac.id/)).
 
 
-If you interest with me, feel free to check and follow my linkedin [Linkedin](https://www.linkedin.com/in/gilang-adhan/](https://www.linkedin.com/in/muhammad-prasetyo-nugroho-499a69271/)ku ya.
+If you interest with me, feel free to check and follow my linkedin [Linkedin](https://www.linkedin.com/in/gilang-adhan/](https://www.linkedin.com/in/muhammad-prasetyo-nugroho-499a69271/))ku ya.
 
 - <p align="left">
 - <a href="https://github.com/MuhammadPrasetyoN">
