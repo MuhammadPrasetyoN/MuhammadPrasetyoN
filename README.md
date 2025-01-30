@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Prasetyo Nugroho**. 
 
-Saya seorang **Mahasiswa** di [Universitas Negeri Malang](https://um.ac.id/).
+Saya Mahasiswa Lulusan dari [Universitas Negeri Malang](https://um.ac.id/).
 
 
 If you interest with me, feel free to check and follow my [Linkedin](https://www.linkedin.com/in/muhammad-prasetyo-nugroho-499a69271/).
